@@ -3,6 +3,7 @@
 div.container, div.div-form, div.pokedex {
 
     display: flex;
+    margin: 100px;
 
 }
 
@@ -24,9 +25,8 @@ div.pokedex {
 }
 
 div#containerPoke {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
+    display: inline-block;
+    margin: 100px;
 }
 
 .btn {
